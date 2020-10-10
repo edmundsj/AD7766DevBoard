@@ -1,4 +1,6 @@
-# AD7766DevBoard
+AD7766DevBoard
+================
+
 Development Board for AD7766 ADC
 
 .. csv-table::
