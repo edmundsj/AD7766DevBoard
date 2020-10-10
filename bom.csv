@@ -1,0 +1,13 @@
+Part Name, Quantity, Source, Catalog Number
+AD7766 ADC, 1, Digikey, `AD7766BRUZ-ND <https://www.digikey.com/product-detail/en/analog-devices-inc/AD7766BRUZ/AD7766BRUZ-ND/1680408>`_
+ADR445A Voltage Referenc, 1, Digikey, `ADR445ARZ <https://www.digikey.com/product-detail/en/analog-devices-inc/ADR445ARZ/ADR445ARZ-ND/1217610>`_
+NFL21 3-terminal EMI Filter, 10, Digikey, `490-6957-1-ND <https://www.digikey.com/product-detail/en/murata-electronics/NFL21SP157X1C3D/490-6957-1-ND/3846154>`_
+ADP3330 5V LDO, 1, Digikey, `ADP3330ARTZ-5-RL7CT-ND <https://www.digikey.com/product-detail/en/analog-devices-inc/ADP3330ARTZ-5-RL7/ADP3330ARTZ-5-RL7CT-ND/2467797>`_
+ADP3330 2.5V LDO , 2, Digikey, `ADP3330ARTZ-2.5-R7CT-ND <https://www.digikey.com/product-detail/en/analog-devices-inc/ADP3330ARTZ-2-5-R7/ADP3330ARTZ-2-5-R7CT-ND/1012896>`_
+BNC Jack, 1, Digikey, `A97555-ND <https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1-1634612-0/A97555-ND/1755942>`_
+Teensy Socket, 1, Digikey, `ED3648-ND <https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/110-93-648-41-001000/ED3648-ND/81812>`_
+Header pins, 3, Digikey, `732-5331-ND <https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/61302411121/732-5331-ND/4846867>`_
+100pF capacitor, 3, Digikey,`399-1122-1-ND <https://www.digikey.com/product-detail/en/kemet/C0805C101J5GACTU/399-1122-1-ND/411397>`_
+0.47uF capacitor, 6, Digikey, `399-9247-1-ND <https://www.digikey.com/product-detail/en/kemet/C0805C474K8RACTU/399-9247-1-ND/3522765>`_
+0.1uF capacitor, 7, Digikey,`399-1169-1-ND <https://www.digikey.com/product-detail/en/kemet/C0805C104M5RACTU/399-1169-1-ND/411444>`_
+10uF capacitor, 2, Digikey, `490-10515-1-ND <https://www.digikey.com/products/en?keywords=490-10515-1-ND>`_
