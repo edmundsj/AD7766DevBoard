@@ -477,17 +477,6 @@ Wire Wire Line
 Connection ~ 2250 2350
 Wire Wire Line
 	2250 2350 2600 2350
-$Comp
-L power:GND #PWR010
-U 1 1 5F772035
-P 1950 4450
-F 0 "#PWR010" H 1950 4200 50  0001 C CNN
-F 1 "GND" H 1955 4277 50  0000 C CNN
-F 2 "" H 1950 4450 50  0001 C CNN
-F 3 "" H 1950 4450 50  0001 C CNN
-	1    1950 4450
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1950 4450 1950 4250
 Wire Wire Line
@@ -804,7 +793,7 @@ L Device:R_US R1
 U 1 1 5F7F474C
 P 3800 4400
 F 0 "R1" H 3868 4446 50  0000 L CNN
-F 1 "1k" H 3868 4355 50  0000 L CNN
+F 1 "3k" H 3868 4355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3840 4390 50  0001 C CNN
 F 3 "~" H 3800 4400 50  0001 C CNN
 	1    3800 4400
@@ -815,7 +804,7 @@ L Device:R_US R2
 U 1 1 5F7F5024
 P 3800 4750
 F 0 "R2" H 3868 4796 50  0000 L CNN
-F 1 "3k" H 3868 4705 50  0000 L CNN
+F 1 "1k" H 3868 4705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3840 4740 50  0001 C CNN
 F 3 "~" H 3800 4750 50  0001 C CNN
 	1    3800 4750
@@ -1769,31 +1758,52 @@ Wire Wire Line
 	2750 5800 3050 5800
 Text Label 2850 5800 0    50   ~ 0
 VIN
+NoConn ~ 1950 4450
+NoConn ~ 5600 4050
+NoConn ~ 5700 4400
+NoConn ~ 5150 5500
 $Comp
-L Device:C C13
-U 1 1 5FFE5A2E
-P 5050 4600
-F 0 "C13" H 5165 4646 50  0000 L CNN
-F 1 "10uF" H 5165 4555 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5088 4450 50  0001 C CNN
-F 3 "~" H 5050 4600 50  0001 C CNN
-	1    5050 4600
+L Mechanical:MountingHole H1
+U 1 1 5F936B39
+P 1400 6750
+F 0 "H1" H 1500 6796 50  0000 L CNN
+F 1 "MountingHole" H 1500 6705 50  0000 L CNN
+F 2 "my_library_foot:m3_mounting_hole" H 1400 6750 50  0001 C CNN
+F 3 "~" H 1400 6750 50  0001 C CNN
+	1    1400 6750
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4450 4250 5050 4250
-Wire Wire Line
-	5050 4250 5050 4450
-Connection ~ 4450 4250
 $Comp
-L power:GND #PWR048
-U 1 1 5FFF02BA
-P 5050 4750
-F 0 "#PWR048" H 5050 4500 50  0001 C CNN
-F 1 "GND" H 5055 4577 50  0000 C CNN
-F 2 "" H 5050 4750 50  0001 C CNN
-F 3 "" H 5050 4750 50  0001 C CNN
-	1    5050 4750
+L Mechanical:MountingHole H2
+U 1 1 5F9376EF
+P 1450 7000
+F 0 "H2" H 1550 7046 50  0000 L CNN
+F 1 "MountingHole" H 1550 6955 50  0000 L CNN
+F 2 "my_library_foot:m3_mounting_hole" H 1450 7000 50  0001 C CNN
+F 3 "~" H 1450 7000 50  0001 C CNN
+	1    1450 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5F937926
+P 1450 7200
+F 0 "H3" H 1550 7246 50  0000 L CNN
+F 1 "MountingHole" H 1550 7155 50  0000 L CNN
+F 2 "my_library_foot:m3_mounting_hole" H 1450 7200 50  0001 C CNN
+F 3 "~" H 1450 7200 50  0001 C CNN
+	1    1450 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5F937B08
+P 2300 7050
+F 0 "H4" H 2400 7096 50  0000 L CNN
+F 1 "MountingHole" H 2400 7005 50  0000 L CNN
+F 2 "my_library_foot:m3_mounting_hole" H 2300 7050 50  0001 C CNN
+F 3 "~" H 2300 7050 50  0001 C CNN
+	1    2300 7050
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
