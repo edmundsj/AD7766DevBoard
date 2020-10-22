@@ -21,6 +21,7 @@ F 0 "U8" H 8444 5946 50  0000 L CNN
 F 1 "AD7766" H 8444 5855 50  0000 L CNN
 F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 7100 5600 50  0001 C CNN
 F 3 "" H 7100 5600 50  0001 C CNN
+F 4 "AD7766BRUZ" H 7100 5600 50  0001 C CNN "Manufacturer Part #"
 	1    7100 5600
 	1    0    0    -1  
 $EndComp
@@ -32,6 +33,7 @@ F 0 "U7" H 5350 5781 50  0000 C CNN
 F 1 "ADA4941-1" H 5350 5690 50  0000 C CNN
 F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm" H 5300 4800 50  0001 C CNN
 F 3 "" H 5300 4800 50  0001 C CNN
+F 4 "ADA4941-1YRZ" H 5300 5300 50  0001 C CNN "Manufacturer Part #"
 	1    5300 5300
 	1    0    0    -1  
 $EndComp
@@ -125,6 +127,7 @@ F 0 "R7" V 5895 5200 50  0000 C CNN
 F 1 "15R" V 5986 5200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6140 5190 50  0001 C CNN
 F 3 "~" H 6100 5200 50  0001 C CNN
+F 4 "RK73H2ATTD15R0F" H 6100 5200 50  0001 C CNN "Manufacturer Part #"
 	1    6100 5200
 	0    1    1    0   
 $EndComp
@@ -136,6 +139,7 @@ F 0 "R8" V 6350 5400 50  0000 C CNN
 F 1 "15R" V 6250 5400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6140 5390 50  0001 C CNN
 F 3 "~" H 6100 5400 50  0001 C CNN
+F 4 "RK73H2ATTD15R0F" H 6100 5400 50  0001 C CNN "Manufacturer Part #"
 	1    6100 5400
 	0    1    1    0   
 $EndComp
@@ -147,6 +151,7 @@ F 0 "C12" H 6415 5696 50  0000 L CNN
 F 1 "2.2nF" H 6415 5605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6338 5500 50  0001 C CNN
 F 3 "~" H 6300 5650 50  0001 C CNN
+F 4 "CL21B222KDCNFNC" H 6300 5650 50  0001 C CNN "Manufacturer Part #"
 	1    6300 5650
 	1    0    0    -1  
 $EndComp
@@ -158,6 +163,7 @@ F 0 "C11" H 6415 4996 50  0000 L CNN
 F 1 "2.2nF" H 6415 4905 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6338 4800 50  0001 C CNN
 F 3 "~" H 6300 4950 50  0001 C CNN
+F 4 "CL21B222KDCNFNC" H 6300 4950 50  0001 C CNN "Manufacturer Part #"
 	1    6300 4950
 	1    0    0    -1  
 $EndComp
@@ -263,6 +269,7 @@ F 0 "U3" H 2844 5046 50  0000 L CNN
 F 1 "ADR445" H 2844 4955 50  0000 L CNN
 F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm" H 2150 4650 50  0001 C CNN
 F 3 "" H 2150 4650 50  0001 C CNN
+F 4 "ADR445ARZ" H 2150 4650 50  0001 C CNN "Manufacturer Part #"
 	1    2150 4650
 	1    0    0    -1  
 $EndComp
@@ -289,6 +296,7 @@ F 0 "C1" H 1265 4346 50  0000 L CNN
 F 1 "10uF" H 1265 4255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1188 4150 50  0001 C CNN
 F 3 "~" H 1150 4300 50  0001 C CNN
+F 4 "GRM21BR6YA106ME43L" H 1150 4300 50  0001 C CNN "Manufacturer Part #"
 	1    1150 4300
 	1    0    0    -1  
 $EndComp
@@ -300,6 +308,7 @@ F 0 "C3" H 1615 4346 50  0000 L CNN
 F 1 "100nF" H 1615 4255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1538 4150 50  0001 C CNN
 F 3 "~" H 1500 4300 50  0001 C CNN
+F 4 "C0805C104M5RACTU" H 1500 4300 50  0001 C CNN "Manufacturer Part #"
 	1    1500 4300
 	1    0    0    -1  
 $EndComp
@@ -358,6 +367,7 @@ F 0 "C6" H 3415 4496 50  0000 L CNN
 F 1 "100nF" H 3415 4405 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3338 4300 50  0001 C CNN
 F 3 "~" H 3300 4450 50  0001 C CNN
+F 4 "C0805C104M5RACTU" H 3300 4450 50  0001 C CNN "Manufacturer Part #"
 	1    3300 4450
 	1    0    0    -1  
 $EndComp
@@ -387,6 +397,7 @@ F 0 "U6" H 2975 2765 50  0000 C CNN
 F 1 "ADP3330-2.5" H 2975 2674 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 2550 1950 50  0001 C CNN
 F 3 "" H 2550 1950 50  0001 C CNN
+F 4 "ADP3330ARTZ-2.5-R7" H 2900 2400 50  0001 C CNN "Manufacturer Part #"
 	1    2900 2400
 	1    0    0    -1  
 $EndComp
@@ -426,6 +437,7 @@ F 0 "C5" H 1915 2546 50  0000 L CNN
 F 1 "0.47uF" H 1915 2455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1838 2350 50  0001 C CNN
 F 3 "~" H 1800 2500 50  0001 C CNN
+F 4 "08051C474K4Z2A" H 1800 2500 50  0001 C CNN "Manufacturer Part #"
 	1    1800 2500
 	1    0    0    -1  
 $EndComp
@@ -440,6 +452,7 @@ F 0 "C9" H 4015 2496 50  0000 L CNN
 F 1 "0.47uF" H 4015 2405 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3938 2300 50  0001 C CNN
 F 3 "~" H 3900 2450 50  0001 C CNN
+F 4 "08051C474K4Z2A" H 3900 2450 50  0001 C CNN "Manufacturer Part #"
 	1    3900 2450
 	1    0    0    -1  
 $EndComp
@@ -489,6 +502,7 @@ F 0 "U5" H 2975 1715 50  0000 C CNN
 F 1 "ADP3330-2.5" H 2975 1624 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 2550 900 50  0001 C CNN
 F 3 "" H 2550 900 50  0001 C CNN
+F 4 "ADP3330ARTZ-2.5-R7" H 2900 1350 50  0001 C CNN "Manufacturer Part #"
 	1    2900 1350
 	1    0    0    -1  
 $EndComp
@@ -528,6 +542,7 @@ F 0 "C4" H 1915 1496 50  0000 L CNN
 F 1 "0.47uF" H 1915 1405 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1838 1300 50  0001 C CNN
 F 3 "~" H 1800 1450 50  0001 C CNN
+F 4 "08051C474K4Z2A" H 1800 1450 50  0001 C CNN "Manufacturer Part #"
 	1    1800 1450
 	1    0    0    -1  
 $EndComp
@@ -542,6 +557,9 @@ F 0 "C8" H 4015 1446 50  0000 L CNN
 F 1 "0.47uF" H 4015 1355 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3938 1250 50  0001 C CNN
 F 3 "~" H 3900 1400 50  0001 C CNN
+F 4 "" H 3900 1400 50  0001 C CNN "Manufacturer"
+F 5 "" H 3900 1400 50  0001 C CNN "Part No."
+F 6 "08051C474K4Z2A" H 3900 1400 50  0001 C CNN "Manufacturer Part #"
 	1    3900 1400
 	1    0    0    -1  
 $EndComp
@@ -640,6 +658,7 @@ F 0 "C2" H 1365 3546 50  0000 L CNN
 F 1 "0.47uF" H 1365 3455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1288 3350 50  0001 C CNN
 F 3 "~" H 1250 3500 50  0001 C CNN
+F 4 "08051C474K4Z2A" H 1250 3500 50  0001 C CNN "Manufacturer Part #"
 	1    1250 3500
 	1    0    0    -1  
 $EndComp
@@ -654,6 +673,7 @@ F 0 "C7" H 3465 3496 50  0000 L CNN
 F 1 "0.47uF" H 3465 3405 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3388 3300 50  0001 C CNN
 F 3 "~" H 3350 3450 50  0001 C CNN
+F 4 "08051C474K4Z2A" H 3350 3450 50  0001 C CNN "Manufacturer Part #"
 	1    3350 3450
 	1    0    0    -1  
 $EndComp
@@ -727,6 +747,7 @@ F 0 "R3" V 3695 5500 50  0000 C CNN
 F 1 "1k" V 3786 5500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3940 5490 50  0001 C CNN
 F 3 "~" H 3900 5500 50  0001 C CNN
+F 4 "RC0805FR-071KL" H 3900 5500 50  0001 C CNN "Manufacturer Part #"
 	1    3900 5500
 	0    1    1    0   
 $EndComp
@@ -738,6 +759,7 @@ F 0 "R6" V 4795 6200 50  0000 C CNN
 F 1 "1k" V 4886 6200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5040 6190 50  0001 C CNN
 F 3 "~" H 5000 6200 50  0001 C CNN
+F 4 "RC0805FR-071KL" H 5000 6200 50  0001 C CNN "Manufacturer Part #"
 	1    5000 6200
 	0    1    1    0   
 $EndComp
@@ -796,6 +818,7 @@ F 0 "R1" H 3868 4446 50  0000 L CNN
 F 1 "3k" H 3868 4355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3840 4390 50  0001 C CNN
 F 3 "~" H 3800 4400 50  0001 C CNN
+F 4 "CRG0805F3K0" H 3800 4400 50  0001 C CNN "Manufacturer Part #"
 	1    3800 4400
 	1    0    0    -1  
 $EndComp
@@ -807,6 +830,7 @@ F 0 "R2" H 3868 4796 50  0000 L CNN
 F 1 "1k" H 3868 4705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3840 4740 50  0001 C CNN
 F 3 "~" H 3800 4750 50  0001 C CNN
+F 4 "RC0805FR-071KL" H 3800 4750 50  0001 C CNN "Manufacturer Part #"
 	1    3800 4750
 	1    0    0    -1  
 $EndComp
@@ -818,6 +842,7 @@ F 0 "R4" H 4518 4446 50  0000 L CNN
 F 1 "1k" H 4518 4355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4490 4390 50  0001 C CNN
 F 3 "~" H 4450 4400 50  0001 C CNN
+F 4 "RC0805FR-071KL" H 4450 4400 50  0001 C CNN "Manufacturer Part #"
 	1    4450 4400
 	1    0    0    -1  
 $EndComp
@@ -829,6 +854,7 @@ F 0 "R5" H 4518 4796 50  0000 L CNN
 F 1 "1k" H 4518 4705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4490 4740 50  0001 C CNN
 F 3 "~" H 4450 4750 50  0001 C CNN
+F 4 "RC0805FR-071KL" H 4450 4750 50  0001 C CNN "Manufacturer Part #"
 	1    4450 4750
 	1    0    0    -1  
 $EndComp
@@ -881,6 +907,7 @@ F 0 "C10" H 5765 4896 50  0000 L CNN
 F 1 "100nF" H 5765 4805 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5688 4700 50  0001 C CNN
 F 3 "~" H 5650 4850 50  0001 C CNN
+F 4 "C0805C104M5RACTU" H 5650 4850 50  0001 C CNN "Manufacturer Part #"
 	1    5650 4850
 	1    0    0    -1  
 $EndComp
@@ -912,6 +939,7 @@ F 0 "U4" H 2425 3765 50  0000 C CNN
 F 1 "ADP3330-5" H 2425 3674 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 2000 2950 50  0001 C CNN
 F 3 "" H 2000 2950 50  0001 C CNN
+F 4 "ADP3330ARTZ-5-RL7" H 2350 3400 50  0001 C CNN "Manufacturer Part #"
 	1    2350 3400
 	1    0    0    -1  
 $EndComp
@@ -923,6 +951,7 @@ F 0 "FL1" H 4000 3717 50  0000 C CNN
 F 1 "EMI_Filter_LCL" H 4000 3626 50  0000 C CNN
 F 2 "my_library_foot:0805_3TERM" V 4000 3400 50  0001 C CNN
 F 3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb" V 4000 3400 50  0001 C CNN
+F 4 "NFL21SP157X1C3D" H 4000 3400 50  0001 C CNN "Manufacturer Part #"
 	1    4000 3400
 	1    0    0    -1  
 $EndComp
@@ -934,6 +963,7 @@ F 0 "FL3" H 4550 2717 50  0000 C CNN
 F 1 "EMI_Filter_LCL" H 4550 2626 50  0000 C CNN
 F 2 "my_library_foot:0805_3TERM" V 4550 2400 50  0001 C CNN
 F 3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb" V 4550 2400 50  0001 C CNN
+F 4 "NFL21SP157X1C3D" H 4550 2400 50  0001 C CNN "Manufacturer Part #"
 	1    4550 2400
 	1    0    0    -1  
 $EndComp
@@ -945,6 +975,7 @@ F 0 "FL2" H 4500 1667 50  0000 C CNN
 F 1 "EMI_Filter_LCL" H 4500 1576 50  0000 C CNN
 F 2 "my_library_foot:0805_3TERM" V 4500 1350 50  0001 C CNN
 F 3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb" V 4500 1350 50  0001 C CNN
+F 4 "NFL21SP157X1C3D" H 4500 1350 50  0001 C CNN "Manufacturer Part #"
 	1    4500 1350
 	1    0    0    -1  
 $EndComp
@@ -1011,6 +1042,7 @@ F 0 "D1" H 2300 5915 50  0000 C CNN
 F 1 "DIODE" H 2300 5824 50  0000 C CNN
 F 2 "Diode_SMD:D_SMA-SMB_Universal_Handsoldering" H 2300 5650 50  0001 C CNN
 F 3 "~" H 2300 5650 50  0001 C CNN
+F 4 "SK220ATR" H 2300 5650 50  0001 C CNN "Manufacturer Part #"
 	1    2300 5650
 	1    0    0    -1  
 $EndComp
@@ -1026,6 +1058,7 @@ F 0 "CD1" H 9265 4646 50  0000 L CNN
 F 1 "100nF" H 9265 4555 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9188 4450 50  0001 C CNN
 F 3 "~" H 9150 4600 50  0001 C CNN
+F 4 "C0805C104M5RACTU" H 9150 4600 50  0001 C CNN "Manufacturer Part #"
 	1    9150 4600
 	1    0    0    -1  
 $EndComp
@@ -1037,6 +1070,7 @@ F 0 "CD2" H 9715 4646 50  0000 L CNN
 F 1 "1nF" H 9715 4555 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9638 4450 50  0001 C CNN
 F 3 "~" H 9600 4600 50  0001 C CNN
+F 4 "08055C102KAT2A" H 9600 4600 50  0001 C CNN "Manufacturer Part #"
 	1    9600 4600
 	1    0    0    -1  
 $EndComp
@@ -1048,6 +1082,7 @@ F 0 "CD3" H 10065 4646 50  0000 L CNN
 F 1 "100pF" H 10065 4555 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9988 4450 50  0001 C CNN
 F 3 "~" H 9950 4600 50  0001 C CNN
+F 4 "C0805C101J5GACTU" H 9950 4600 50  0001 C CNN "Manufacturer Part #"
 	1    9950 4600
 	1    0    0    -1  
 $EndComp
@@ -1099,6 +1134,7 @@ F 0 "CD4" H 9265 5396 50  0000 L CNN
 F 1 "100nF" H 9265 5305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9188 5200 50  0001 C CNN
 F 3 "~" H 9150 5350 50  0001 C CNN
+F 4 "C0805C104M5RACTU" H 9150 5350 50  0001 C CNN "Manufacturer Part #"
 	1    9150 5350
 	1    0    0    -1  
 $EndComp
@@ -1110,6 +1146,7 @@ F 0 "CD5" H 9715 5396 50  0000 L CNN
 F 1 "1nF" H 9715 5305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9638 5200 50  0001 C CNN
 F 3 "~" H 9600 5350 50  0001 C CNN
+F 4 "08055C102KAT2A" H 9600 5350 50  0001 C CNN "Manufacturer Part #"
 	1    9600 5350
 	1    0    0    -1  
 $EndComp
@@ -1121,6 +1158,7 @@ F 0 "CD7" H 10065 5396 50  0000 L CNN
 F 1 "100pF" H 10065 5305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9988 5200 50  0001 C CNN
 F 3 "~" H 9950 5350 50  0001 C CNN
+F 4 "C0805C101J5GACTU" H 9950 5350 50  0001 C CNN "Manufacturer Part #"
 	1    9950 5350
 	1    0    0    -1  
 $EndComp
@@ -1172,6 +1210,7 @@ F 0 "CD6" H 9265 6146 50  0000 L CNN
 F 1 "100nF" H 9265 6055 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9188 5950 50  0001 C CNN
 F 3 "~" H 9150 6100 50  0001 C CNN
+F 4 "C0805C104M5RACTU" H 9150 6100 50  0001 C CNN "Manufacturer Part #"
 	1    9150 6100
 	1    0    0    -1  
 $EndComp
@@ -1183,6 +1222,7 @@ F 0 "CD8" H 9715 6146 50  0000 L CNN
 F 1 "1nF" H 9715 6055 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9638 5950 50  0001 C CNN
 F 3 "~" H 9600 6100 50  0001 C CNN
+F 4 "08055C102KAT2A" H 9600 6100 50  0001 C CNN "Manufacturer Part #"
 	1    9600 6100
 	1    0    0    -1  
 $EndComp
@@ -1194,6 +1234,7 @@ F 0 "CD9" H 10065 6146 50  0000 L CNN
 F 1 "100pF" H 10065 6055 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9988 5950 50  0001 C CNN
 F 3 "~" H 9950 6100 50  0001 C CNN
+F 4 "C0805C101J5GACTU" H 9950 6100 50  0001 C CNN "Manufacturer Part #"
 	1    9950 6100
 	1    0    0    -1  
 $EndComp
@@ -1330,6 +1371,7 @@ F 0 "R9" H 5418 1496 50  0000 L CNN
 F 1 "120R" H 5418 1405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5390 1440 50  0001 C CNN
 F 3 "~" H 5350 1450 50  0001 C CNN
+F 4 "CRGCQ0805F120R" H 5350 1450 50  0001 C CNN "Manufacturer Part #"
 	1    5350 1450
 	1    0    0    -1  
 $EndComp
@@ -1341,6 +1383,7 @@ F 0 "R10" H 5418 1896 50  0000 L CNN
 F 1 "230R" H 5418 1805 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5390 1840 50  0001 C CNN
 F 3 "~" H 5350 1850 50  0001 C CNN
+F 4 "RR1220P-241-D" H 5350 1850 50  0001 C CNN "Manufacturer Part #"
 	1    5350 1850
 	1    0    0    -1  
 $EndComp
@@ -1731,6 +1774,7 @@ F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 2850 6250 50  0001 C CNN
 F 3 "~" H 2850 6250 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD15VL2BT215/1157421?s=N4IgTCBcDaIAoFEDKARAjAVgGoBkwCEAVEAXQF8g" H 2850 6250 50  0001 C CNN "Distributor Link"
 F 5 "Digikey" H 2850 6250 50  0001 C CNN "Distributor"
+F 6 "PESD15VL2BT,215" H 2850 6250 50  0001 C CNN "Manufacturer Part #"
 	1    2850 6250
 	1    0    0    -1  
 $EndComp
