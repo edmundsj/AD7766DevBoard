@@ -1561,8 +1561,6 @@ Text Label 6400 2050 0    50   ~ 0
 CS
 Text Label 6400 1950 0    50   ~ 0
 DRDY
-Text Label 6400 1850 0    50   ~ 0
-MCLK
 NoConn ~ 6650 2150
 NoConn ~ 8850 1350
 Text Label 6350 1750 0    50   ~ 0
@@ -1850,4 +1848,48 @@ F 3 "~" H 2300 7050 50  0001 C CNN
 	1    2300 7050
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R_US R?
+U 1 1 5F9A459D
+P 5900 1850
+F 0 "R?" V 5695 1850 50  0000 C CNN
+F 1 "320" V 5786 1850 50  0000 C CNN
+F 2 "" V 5940 1840 50  0001 C CNN
+F 3 "~" H 5900 1850 50  0001 C CNN
+	1    5900 1850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_US R?
+U 1 1 5F9A69D8
+P 5500 2150
+F 0 "R?" H 5432 2104 50  0000 R CNN
+F 1 "1k" H 5432 2195 50  0000 R CNN
+F 2 "" V 5540 2140 50  0001 C CNN
+F 3 "~" H 5500 2150 50  0001 C CNN
+	1    5500 2150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5500 2000 5500 1850
+Wire Wire Line
+	5500 1850 5750 1850
+Wire Wire Line
+	5500 2300 5500 2500
+$Comp
+L power:GND #PWR?
+U 1 1 5F9BA794
+P 5500 2500
+F 0 "#PWR?" H 5500 2250 50  0001 C CNN
+F 1 "GND" H 5505 2327 50  0000 C CNN
+F 2 "" H 5500 2500 50  0001 C CNN
+F 3 "" H 5500 2500 50  0001 C CNN
+	1    5500 2500
+	1    0    0    -1  
+$EndComp
+Text Label 5100 1850 0    50   ~ 0
+MCLK
+Wire Wire Line
+	5500 1850 5050 1850
+Connection ~ 5500 1850
 $EndSCHEMATC

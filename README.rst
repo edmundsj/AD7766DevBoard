@@ -16,3 +16,7 @@ Issues in Version 1
 - [FIXED v2] The teensy socket does not actually fit standard header pins - the holes are too small. Need to swap out this part.
 - [FIXED v2] Should add pin names for the other output headers.
 - [FIXED v2] Remove "U1" and "U2" text
+ 
+Issues in Version 2
+---------------------
+- [FIXED v3] The MCLK output is 3.3V, and the AD7766 is expecting 2.5V. Added a voltage divider.
