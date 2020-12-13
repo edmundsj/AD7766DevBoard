@@ -19,4 +19,4 @@ Issues in Version 1
  
 Issues in Version 2
 ---------------------
-- [FIXED v3] The MCLK output is 3.3V, and the AD7766 is expecting 2.5V. Added a voltage divider.
+- [FIXED v3] The MCLK output is 3.3V, and the AD7766 is expecting 2.5V. Added a voltage divider. The datasheet says it's within the absolute maximum ratings, though, so it should work.
