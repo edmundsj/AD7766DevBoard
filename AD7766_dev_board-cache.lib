@@ -1,6 +1,41 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# AD7766_dev_board-rescue_PWR_JACK_GND-my_library
+#
+DEF AD7766_dev_board-rescue_PWR_JACK_GND-my_library U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "AD7766_dev_board-rescue_PWR_JACK_GND-my_library" 0 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 200 141 0 1 0 N
+P 2 0 1 0 -250 200 -150 200 N
+P 2 0 1 0 -50 150 50 150 N
+P 2 0 1 0 -20 100 30 100 N
+P 2 0 1 0 0 100 0 100 N
+P 2 0 1 0 0 300 0 200 N
+P 3 0 1 0 -100 200 50 200 100 200 N
+X + 1 -350 200 100 R 50 20 1 1 O
+ENDDRAW
+ENDDEF
+#
+# AD7766_dev_board-rescue_PWR_JACK_POS-my_library
+#
+DEF AD7766_dev_board-rescue_PWR_JACK_POS-my_library U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "AD7766_dev_board-rescue_PWR_JACK_POS-my_library" 0 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 200 141 0 1 0 N
+P 2 0 1 0 -250 200 -150 200 N
+P 2 0 1 0 0 300 0 100 N
+P 3 0 1 0 -100 200 50 200 100 200 N
+X + 1 -350 200 100 R 50 20 1 1 O
+ENDDRAW
+ENDDEF
+#
 # Connector_Conn_01x06_Male
 #
 DEF Connector_Conn_01x06_Male J 0 40 Y N 1 F N
@@ -362,41 +397,6 @@ P 4 1 1 10 -50 200 -150 200 -100 100 -50 200 N
 X V1 1 -300 450 100 D 50 50 1 1 P
 X V2 2 -100 450 100 D 50 50 1 1 P
 X GND 3 -200 -100 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# my_library_PWR_JACK_GND
-#
-DEF my_library_PWR_JACK_GND U 0 40 Y Y 1 F N
-F0 "U" 0 0 50 H V C CNN
-F1 "my_library_PWR_JACK_GND" 0 -50 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-C 0 200 141 0 1 0 N
-P 2 0 1 0 -250 200 -150 200 N
-P 2 0 1 0 -50 150 50 150 N
-P 2 0 1 0 -20 100 30 100 N
-P 2 0 1 0 0 100 0 100 N
-P 2 0 1 0 0 300 0 200 N
-P 3 0 1 0 -100 200 50 200 100 200 N
-X + 1 -350 200 100 R 50 20 1 1 O
-ENDDRAW
-ENDDEF
-#
-# my_library_PWR_JACK_POS
-#
-DEF my_library_PWR_JACK_POS U 0 40 Y Y 1 F N
-F0 "U" 0 0 50 H V C CNN
-F1 "my_library_PWR_JACK_POS" 0 -50 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-C 0 200 141 0 1 0 N
-P 2 0 1 0 -250 200 -150 200 N
-P 2 0 1 0 0 300 0 100 N
-P 3 0 1 0 -100 200 50 200 100 200 N
-X + 1 -350 200 100 R 50 20 1 1 O
 ENDDRAW
 ENDDEF
 #

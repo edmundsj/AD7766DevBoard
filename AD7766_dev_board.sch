@@ -212,7 +212,7 @@ Wire Wire Line
 Wire Wire Line
 	6400 5350 6500 5350
 $Comp
-L my_library:PWR_JACK_POS U1
+L AD7766_dev_board-rescue:PWR_JACK_POS-my_library U1
 U 1 1 5F7320F5
 P 1450 5850
 F 0 "U1" H 1338 6356 50  0000 C CNN
@@ -234,7 +234,7 @@ F 3 "" H 2750 5600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L my_library:PWR_JACK_GND U2
+L AD7766_dev_board-rescue:PWR_JACK_GND-my_library U2
 U 1 1 5F73473B
 P 1450 6300
 F 0 "U2" H 1338 6806 50  0000 C CNN

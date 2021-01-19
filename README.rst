@@ -72,3 +72,6 @@ _________
 - I have no fucking idea how to increase the sourceMeter compliance from 105uA. I did it before, but I can't seem to be able to do it again.
 - The noise from the single-ended board is actually not much better with the keithley than the Tekpower source. I NEED to get my new PCB working so that everything can be on the same PCB and I don't have to deal with the pickup of these wires.
 
+TO TEST:
+_________
+- Make sure the MISO pin isn't being unintentionally driven by the ADC. Try cutting the trace on the PCB or setting the pinMode to input.
